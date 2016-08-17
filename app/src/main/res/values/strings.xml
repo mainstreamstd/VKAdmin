@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">VKAdmin</string>
+    <string name="app_name">VK Grouper</string>
+    <string name="main_label">Мои группы</string>
+    <string name="version">Ver: 0.0.1</string>
+    <string name="login">ВХОД</string>
+    <string name="logout">Выход</string>
+    <string name="no_group_text">Кажется у вас нет групп. Быть может, вы хотите создать <u>одну</u>?</string>
+    <string name="no_internet">Отсутствует соединение с интернетом.</string>
+    <string name="logout_message">Выход из аккаунта.</string>
 </resources>

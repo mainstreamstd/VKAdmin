@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VK Grouper</string>
+    <string name="app_name">VK Admin</string>
     <string name="main_label">Мои группы</string>
     <string name="version">Ver: 0.0.1</string>
     <string name="login">ВХОД</string>
